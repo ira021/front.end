@@ -1,0 +1,37 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/images/1.jpg");
+}
+.htmlAll {
+  background-color: #f6ddb9;
+}
+.intro {
+  height: 300px;
+  /* background: tomato; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 3px;
+  color: white;
+}
+
+.trending {
+  height: auto;
+  /* background: url("../assets/images/download.jpg"); */
+  /* background: url("../assets/images/5eeaba726cd14.jpg"); */
+  /* background: url("../assets/images/download.jpg"); */
+}
+.movieImage {
+  height: auto;
+  background: transparent;
+}
+/* .movieWrapper {
+  background: url("../assets/images/2.jpg");
+} */
